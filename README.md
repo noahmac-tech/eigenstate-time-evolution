@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Dependencies](https://img.shields.io/badge/dependencies-scipy%20%7C%20numpy%20%7C%20matplotlib-orange.svg)
+![Dependencies](https://img.shields.io/badge/dependencies-numpy%20%7C%20matplotlib-orange.svg)
 
 ## Overview
 This repository computationally models the energy eigenstates and time evolution of a 1D quantum system. It utilizes dimensional analysis and numerical techniques to solve both the stationary (TISE) and time-dependent Schrödinger equations (TDSE) for a particle in a localized potential well (Pöschl-Teller style). 
